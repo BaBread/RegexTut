@@ -82,6 +82,9 @@ Boundaries are similar to an anchor and uses the expression \b for word boundari
 ### Back-references
 Backreferences are filters used to match the same text previously matched by a capturing group. An example would be when you desire to search for a repeated word, the first match could use a pattern that extracts a signle word, the second would be a back reference that referes to the captured group. The above example does not include any backreferences.
 
+## Author
+Donald Leon. A full stack bootcamp student.
 
+https://github.com/BaBread/RegexTut
 
 
